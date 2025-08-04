@@ -5,6 +5,7 @@ My CachyOS install repository - All software &amp; tweaks
   - [Software](#software)
     - [Basic](#basic)
       - [Terminal](#terminal)
+      - [File search (indexed)](#file-search-indexed)
       - [Google Drive sync](#google-drive-sync)
       - [Backup \& Restore](#backup--restore)
     - [Gaming](#gaming)
@@ -29,6 +30,9 @@ My CachyOS install repository - All software &amp; tweaks
 ```
 paru ghostty
 ```
+
+#### File search (indexed)
+- FSearch
 
 #### Google Drive sync
 [Insync](https://www.insynchq.com/) - Support for multiple Cloud integrations and adds CLI support for uploading/downloading files.
